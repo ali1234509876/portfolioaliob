@@ -2,8 +2,6 @@
 date: '1'
 title: 'An Intelligent Video-Based Violence Detection System'
 cover: './IVBVDS.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
 tech:
   -
   - Python

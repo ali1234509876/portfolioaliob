@@ -320,8 +320,6 @@ const Featured = () => {
                 }
               }
               tech
-              github
-              external
             }
             html
           }

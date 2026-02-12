@@ -2,8 +2,6 @@
 date: '3'
 title: 'ASL Detection System'
 cover: './ASLDETECTIONBYML.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
 tech:
   -
   - Python
