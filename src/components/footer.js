@@ -105,8 +105,8 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="https://github.com/bchiang7/v4">
-          <div>Designed &amp; Built by Brittany Chiang</div>
+        <a href="https://github.com/ali1234509876">
+          <div>Designed &amp; Built by Ali Bamaga</div>
 
           {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">
